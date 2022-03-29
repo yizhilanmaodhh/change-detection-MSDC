@@ -5,7 +5,7 @@ by Huihui Dong, Wenping Ma, Licheng Jiao, Fang Liu, Lingling Li.
 
 Pytorch version=1.1.0 (Very important to our method beacuase the effect of randomly initialized parameters):
 #you can directly use the following command to install
-# CUDA 10.0
+# Run Environmental installation
 conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
 
 Run the code:
@@ -16,7 +16,7 @@ $ dash main.sh
 ```
 #Train the networks and obtain the detection result
 
-论文引用：
+cite：
 @article{dong2021multiscale,
   title={A multiscale self-attention deep clustering for change detection in SAR images},
   author={Dong, Huihui and Ma, Wenping and Jiao, Licheng and Liu, Fang and Li, LingLing},
