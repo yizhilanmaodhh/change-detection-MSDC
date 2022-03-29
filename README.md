@@ -1,6 +1,5 @@
 # change-detection-MSDC
-A PyTorch implementation of [**A multiscale self-attention deep clustering for change detection in SAR images**] 
-## in *IEEE Transactions on Geoscience and Remote Sensing*, 2021. Available
+A PyTorch implementation of [**A multiscale self-attention deep clustering for change detection in SAR images**]  in *IEEE Transactions on Geoscience and Remote Sensing*, 2021. Available
 
 by Huihui Dong, Wenping Ma, Licheng Jiao, Fang Liu, Lingling Li.
 
